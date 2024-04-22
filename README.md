@@ -1,1 +1,2 @@
 # Airbnb-s-Booking-Data-Analysis-Using-Power-BI
+Embark on a journey through Airbnb's Booking Data Analysis using Power BI! Delve into this repository where I've meticulously analyzed Airbnb's booking data to uncover valuable insights and trends. From occupancy rates to pricing dynamics, each Power BI report provides a comprehensive view of Airbnb's business landscape. Additionally, explore the dashboard I've crafted, offering detailed visualizations and interactive elements for deeper analysis.
