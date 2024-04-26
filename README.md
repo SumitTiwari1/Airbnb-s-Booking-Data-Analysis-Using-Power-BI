@@ -49,8 +49,6 @@ This objective entails computing the age of Airbnb listings and identifying host
 
 ![image](https://github.com/SumitTiwari1/Airbnb-s-Booking-Data-Analysis-Using-Power-BI/assets/167782156/5e930fc6-f44f-4f28-9969-51846a89298a)
 
-![image](https://github.com/SumitTiwari1/Airbnb-s-Booking-Data-Analysis-Using-Power-BI/assets/167782156/29b79a25-3392-4a95-b916-d95dc46477a6)
-
 
 Property Type Price Analysis: 
 
